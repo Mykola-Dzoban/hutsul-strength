@@ -1,0 +1,1 @@
+# hutsul-strength
